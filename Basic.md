@@ -9,8 +9,9 @@
 - Learn about the following
 
   - Arrow functions
-  - Array methods(length, charAt, concat, pop, push, forEach, includes, indexOf, shift, unshift)
-  - String methods(length, charAt, concat, split, slice, toUpperCase, toLowerCase, charCodeAt)
+  - Array methods(length, charAt, concat, pop, push, forEach, includes, indexOf, shift, unshift etc)
+  - String methods(length, charAt, concat, split, slice, toUpperCase, toLowerCase, charCodeAt etc)
+  - String Search methods (indexOf, lastIndexOf ,search, startsWith , endsWith etc)
 
 - You can refer the following
   - MDN docs
